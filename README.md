@@ -1,4 +1,4 @@
 # Game-TicTacToe
-Game Tic Tac Toe developed by using javascript
+Game Tic Tac Toe is developed using javascript
 
 Developed by Erwin Ernan
